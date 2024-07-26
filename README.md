@@ -1,2 +1,2 @@
 # CodSoft_Internship
-#Java-Prigramming tasks
+#Java-Programming tasks
